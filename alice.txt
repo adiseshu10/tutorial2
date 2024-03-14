@@ -1,2 +1,2 @@
-Hii
-This is going to be the example of git version control.
+This is going to be the example of git version control
+This is gonna be awesome.
